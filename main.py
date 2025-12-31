@@ -14,6 +14,8 @@ def main():
     )
     st.title('School Network Path Finder')
     st.write("This application finds all paths between two nodes in a school network graph.")
+    st.write("Nodes represent entities such as the 500 Students, 25 Teachers, 60 Classes, and 125 Addresses, while edges represent relationships like ENROLLED_IN or TEACHES.")
+    st.write("Select the source and target nodes, specify the maximum number of hops, and click 'Find Paths' to generate the report.")
 
     node_df, edge_df = get_data()
     id_to_label = node_df.set_index('node_id')['label'].to_dict()
@@ -30,7 +32,7 @@ def main():
         st.session_state['show_report'] = False
         st.session_state['report_params'] = {}
 
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2, col3 = st.columns(3)
     with col1:
         source_type = st.selectbox(
             "Select source node type",
@@ -61,7 +63,6 @@ def main():
         )
     with col3:
         cutoff = st.number_input("Max hops", min_value=1, max_value=10, value=3, step=1)
-    with col4:
         if st.button("Find Paths"):
             # set session state so rendering happens after the columns (at bottom)
             st.session_state['show_report'] = True
