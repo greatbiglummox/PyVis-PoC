@@ -1,0 +1,712 @@
+node_id,node_type,label,department,year
+S0001,Student,Jamie Lee,Psychology,4
+S0002,Student,Arjun Perez,Economics,3
+S0003,Student,Diego Singh,Biology,4
+S0004,Student,Chris Gomez,Mathematics,4
+S0005,Student,Nikhil Lewis,Psychology,3
+S0006,Student,Michael Martinez,Physics,1
+S0007,Student,Jamie Chen,Economics,1
+S0008,Student,Meera Martinez,Physics,4
+S0009,Student,Helen Martinez,Psychology,1
+S0010,Student,Maria Chen,Computer Science,3
+S0011,Student,Alex Santos,Physics,1
+S0012,Student,Arjun Gomez,Mathematics,4
+S0013,Student,Casey Smith,Psychology,1
+S0014,Student,John Brown,Psychology,2
+S0015,Student,Rahul Patel,Economics,4
+S0016,Student,Arjun Reddy,Biology,1
+S0017,Student,Sanjay Johnson,Psychology,1
+S0018,Student,Lucia Santos,Economics,1
+S0019,Student,Rachel Taylor,Biology,1
+S0020,Student,Sofia Taylor,Chemistry,4
+S0021,Student,Chris Kim,Psychology,2
+S0022,Student,Sarah Moore,Economics,3
+S0023,Student,Sunita Liu,Physics,4
+S0024,Student,Pooja Walker,Engineering,3
+S0025,Student,John Smith,Computer Science,3
+S0026,Student,Robert Thomas,Mathematics,3
+S0027,Student,Susan Clark,Mathematics,4
+S0028,Student,Rajesh Moore,Physics,3
+S0029,Student,Karen Hernandez,Biology,3
+S0030,Student,Shalini Patel,Mathematics,2
+S0031,Student,Min Kumar,Economics,3
+S0032,Student,Rajesh Lim,Engineering,2
+S0033,Student,Li Martinez,Mathematics,3
+S0034,Student,Sarah Lewis,Engineering,3
+S0035,Student,Robert Shah,Biology,1
+S0036,Student,Thomas Gomez,Engineering,3
+S0037,Student,Rachel Martinez,Computer Science,3
+S0038,Student,Taylor Zhang,Physics,2
+S0039,Student,Diane Kumar,Chemistry,3
+S0040,Student,David Smith,Psychology,2
+S0041,Student,Olivia Ng,Chemistry,2
+S0042,Student,Linda Clark,Biology,1
+S0043,Student,Vivek Gupta,Physics,1
+S0044,Student,Miguel Anderson,Computer Science,3
+S0045,Student,Sakura Clark,Biology,4
+S0046,Student,Sunita Wang,Biology,2
+S0047,Student,Rohan Clark,Biology,2
+S0048,Student,Joseph Gomez,Psychology,1
+S0049,Student,Nancy Patel,Engineering,3
+S0050,Student,Jordan Iyer,Chemistry,4
+S0051,Student,Thomas Zhang,Physics,4
+S0052,Student,Taylor Lim,Chemistry,2
+S0053,Student,Olivia Lee,Physics,4
+S0054,Student,Susan Perez,Chemistry,3
+S0055,Student,Alex Singh,Psychology,4
+S0056,Student,Casey Thomas,Physics,4
+S0057,Student,Olivia Kumar,Engineering,2
+S0058,Student,Priya Santos,Chemistry,2
+S0059,Student,Jordan Clark,Physics,1
+S0060,Student,Noah Shah,Psychology,3
+S0061,Student,Rekha Rodriguez,Mathematics,1
+S0062,Student,Morgan Garcia,Physics,1
+S0063,Student,Chris Lewis,Biology,3
+S0064,Student,Michael Perez,Psychology,2
+S0065,Student,Daniel Johnson,Engineering,1
+S0066,Student,Wei Perez,Chemistry,4
+S0067,Student,Casey Reddy,Economics,1
+S0068,Student,Emma Tan,Engineering,1
+S0069,Student,Priya Gupta,Engineering,3
+S0070,Student,Amit Gomez,Chemistry,4
+S0071,Student,Nikhil Kim,Mathematics,3
+S0072,Student,Kavya Park,Chemistry,1
+S0073,Student,Grace Hernandez,Economics,1
+S0074,Student,Sanjay Clark,Economics,2
+S0075,Student,Vikram Chen,Biology,1
+S0076,Student,Diane Gomez,Physics,4
+S0077,Student,Susan Gupta,Biology,4
+S0078,Student,Meera Wilson,Psychology,1
+S0079,Student,Taylor Lopez,Mathematics,1
+S0080,Student,Barbara Brown,Physics,2
+S0081,Student,Pedro Santos,Biology,4
+S0082,Student,Morgan Chen,Mathematics,3
+S0083,Student,Amit Garcia,Chemistry,3
+S0084,Student,Amit Thomas,Mathematics,1
+S0085,Student,Helen Iyer,Chemistry,4
+S0086,Student,Sarah Thomas,Psychology,1
+S0087,Student,Rahul Clark,Mathematics,4
+S0088,Student,Emma Ng,Computer Science,2
+S0089,Student,Paul Martinez,Biology,3
+S0090,Student,Arjun Lee,Engineering,1
+S0091,Student,Vivek Tan,Economics,2
+S0092,Student,Jing Garcia,Engineering,2
+S0093,Student,Sofia Rodriguez,Mathematics,3
+S0094,Student,Sam Thomas,Mathematics,1
+S0095,Student,Priya Zhang,Engineering,4
+S0096,Student,Vivek Zhang,Computer Science,4
+S0097,Student,Diego Walker,Economics,3
+S0098,Student,Sakura Kumar,Computer Science,3
+S0099,Student,John Kumar,Mathematics,3
+S0100,Student,Nikhil Iyer,Chemistry,1
+S0101,Student,Sunita Anderson,Economics,2
+S0102,Student,Robert Johnson,Computer Science,3
+S0103,Student,Carlos Walker,Economics,2
+S0104,Student,Rajesh Martinez,Psychology,4
+S0105,Student,Robert Ng,Biology,2
+S0106,Student,Vivek Iyer,Mathematics,4
+S0107,Student,Alex Anderson,Computer Science,3
+S0108,Student,Sarah Mehta,Chemistry,1
+S0109,Student,Jamie Hernandez,Chemistry,1
+S0110,Student,Thomas Hernandez,Economics,3
+S0111,Student,Karen Garcia,Engineering,4
+S0112,Student,Olivia Liu,Physics,1
+S0113,Student,Barbara Martinez,Chemistry,3
+S0114,Student,Xiao Wang,Economics,1
+S0115,Student,Noah Gupta,Economics,3
+S0116,Student,Karen Gomez,Mathematics,3
+S0117,Student,Vivek Lim,Engineering,4
+S0118,Student,Chen Lewis,Psychology,4
+S0119,Student,Noah Hernandez,Economics,2
+S0120,Student,Casey Park,Psychology,4
+S0121,Student,Vikram Lim,Economics,3
+S0122,Student,Vivek Garcia,Mathematics,4
+S0123,Student,Riley Gomez,Mathematics,4
+S0124,Student,Jamie Gomez,Biology,3
+S0125,Student,Pedro Singh,Economics,1
+S0126,Student,Nancy Walker,Mathematics,3
+S0127,Student,Emily Tan,Physics,3
+S0128,Student,Barbara Lee,Psychology,4
+S0129,Student,Joseph Walker,Biology,4
+S0130,Student,Rachel Lopez,Economics,4
+S0131,Student,Maria Wilson,Computer Science,3
+S0132,Student,Vivek Walker,Engineering,3
+S0133,Student,Ana Martinez,Computer Science,1
+S0134,Student,Jamie Wang,Engineering,3
+S0135,Student,Vikram Johnson,Biology,1
+S0136,Student,William Anderson,Biology,4
+S0137,Student,Sanjay Taylor,Computer Science,2
+S0138,Student,Nikhil Patel,Mathematics,2
+S0139,Student,Anil Clark,Economics,3
+S0140,Student,Kavya Garcia,Engineering,1
+S0141,Student,Chris Wilson,Biology,4
+S0142,Student,Vivek Park,Economics,3
+S0143,Student,Andrew Smith,Psychology,1
+S0144,Student,Emily Gomez,Biology,3
+S0145,Student,Sakura Shah,Engineering,3
+S0146,Student,Carlos Park,Physics,2
+S0147,Student,Li Perez,Mathematics,1
+S0148,Student,Olivia Santos,Biology,4
+S0149,Student,Sam Smith,Engineering,1
+S0150,Student,Deepa Chen,Physics,3
+S0151,Student,Hao Patel,Psychology,2
+S0152,Student,Diego Moore,Physics,4
+S0153,Student,Li Moore,Chemistry,1
+S0154,Student,Xiao Kim,Biology,1
+S0155,Student,Deepa Wilson,Psychology,2
+S0156,Student,Hiro Park,Psychology,1
+S0157,Student,Pooja Kumar,Economics,3
+S0158,Student,Rahul Brown,Mathematics,3
+S0159,Student,Rekha Lewis,Physics,2
+S0160,Student,Ana Zhang,Biology,3
+S0161,Student,Amit Shah,Chemistry,1
+S0162,Student,Robert Perez,Chemistry,2
+S0163,Student,Barbara Mehta,Chemistry,4
+S0164,Student,Riley Walker,Computer Science,3
+S0165,Student,Susan Santos,Economics,4
+S0166,Student,Amit Lopez,Biology,1
+S0167,Student,Rohan Anderson,Mathematics,3
+S0168,Student,Meera Zhang,Engineering,4
+S0169,Student,Yuki Tan,Engineering,4
+S0170,Student,Chris Tan,Mathematics,2
+S0171,Student,Jing Shah,Economics,1
+S0172,Student,Linda Johnson,Psychology,4
+S0173,Student,Jordan Perez,Economics,2
+S0174,Student,Emily Lewis,Biology,2
+S0175,Student,Morgan Patel,Engineering,1
+S0176,Student,Maria Santos,Mathematics,2
+S0177,Student,Lucia Wang,Physics,2
+S0178,Student,Pedro Mehta,Biology,3
+S0179,Student,Miguel Garcia,Chemistry,3
+S0180,Student,Yuki Thomas,Physics,1
+S0181,Student,Morgan Hernandez,Physics,2
+S0182,Student,Rohan Wilson,Physics,2
+S0183,Student,Hiro Perez,Physics,1
+S0184,Student,Hiro Thomas,Biology,2
+S0185,Student,Susan Rodriguez,Biology,3
+S0186,Student,Helen Zhang,Computer Science,1
+S0187,Student,Grace Shah,Mathematics,1
+S0188,Student,Deepa Patel,Physics,2
+S0189,Student,Miguel Iyer,Engineering,1
+S0190,Student,Anil Singh,Psychology,3
+S0191,Student,Sanjay Mehta,Physics,4
+S0192,Student,Thomas Lopez,Chemistry,4
+S0193,Student,Mark Johnson,Physics,4
+S0194,Student,Joseph Moore,Mathematics,1
+S0195,Student,Olivia Park,Biology,4
+S0196,Student,David Liu,Engineering,4
+S0197,Student,Grace Gupta,Psychology,2
+S0198,Student,Rahul Thomas,Economics,2
+S0199,Student,Ananya Garcia,Economics,3
+S0200,Student,Priya Liu,Economics,4
+S0201,Student,Grace Wang,Biology,3
+S0202,Student,Karen Iyer,Mathematics,3
+S0203,Student,Anil Iyer,Chemistry,4
+S0204,Student,Alex Chen,Mathematics,3
+S0205,Student,Arjun Martinez,Psychology,2
+S0206,Student,Chris Singh,Biology,1
+S0207,Student,Kavya Ng,Computer Science,3
+S0208,Student,Thomas Santos,Engineering,4
+S0209,Student,Hao Rodriguez,Chemistry,2
+S0210,Student,Riley Gupta,Economics,3
+S0211,Student,Rohan Mehta,Chemistry,2
+S0212,Student,Nancy Kumar,Psychology,4
+S0213,Student,Meera Patel,Psychology,3
+S0214,Student,Olivia Brown,Psychology,1
+S0215,Student,Jing Tan,Mathematics,4
+S0216,Student,Luis Santos,Psychology,2
+S0217,Student,Sarah Reddy,Chemistry,3
+S0218,Student,Arjun Smith,Computer Science,1
+S0219,Student,Lucia Garcia,Physics,4
+S0220,Student,Linda Lopez,Psychology,3
+S0221,Student,Sakura Gupta,Computer Science,1
+S0222,Student,Riley Lewis,Engineering,2
+S0223,Student,Casey Mehta,Physics,3
+S0224,Student,Maria Park,Engineering,3
+S0225,Student,Luis Iyer,Computer Science,4
+S0226,Student,Helen Smith,Computer Science,2
+S0227,Student,Rekha Lim,Economics,3
+S0228,Student,Karen Lewis,Mathematics,4
+S0229,Student,Emma Hernandez,Psychology,3
+S0230,Student,Sanjay Perez,Mathematics,2
+S0231,Student,Chris Park,Mathematics,4
+S0232,Student,Daniel Garcia,Economics,3
+S0233,Student,Alex Lopez,Economics,2
+S0234,Student,Vivek Smith,Chemistry,4
+S0235,Student,Lucia Kumar,Computer Science,1
+S0236,Student,Noah Wang,Computer Science,2
+S0237,Student,Emily Brown,Economics,4
+S0238,Student,Avery Zhang,Psychology,2
+S0239,Student,Jing Lopez,Biology,3
+S0240,Student,William Taylor,Economics,2
+S0241,Student,Miguel Lewis,Engineering,3
+S0242,Student,Rekha Chen,Economics,4
+S0243,Student,Grace Johnson,Physics,4
+S0244,Student,Sofia Johnson,Computer Science,3
+S0245,Student,Wei Zhang,Economics,1
+S0246,Student,David Wang,Engineering,3
+S0247,Student,Ananya Iyer,Computer Science,4
+S0248,Student,Ananya Lee,Physics,2
+S0249,Student,Vikram Shah,Computer Science,4
+S0250,Student,David Gupta,Biology,4
+S0251,Student,Carlos Hernandez,Biology,2
+S0252,Student,Sanjay Lim,Computer Science,1
+S0253,Student,James Kumar,Chemistry,1
+S0254,Student,Sofia Moore,Psychology,3
+S0255,Student,Mark Mehta,Engineering,2
+S0256,Student,Nikhil Mehta,Engineering,2
+S0257,Student,Michael Park,Engineering,4
+S0258,Student,Elena Brown,Computer Science,2
+S0259,Student,Luis Smith,Chemistry,3
+S0260,Student,Arjun Mehta,Psychology,4
+S0261,Student,Ananya Brown,Economics,2
+S0262,Student,Grace Lopez,Psychology,3
+S0263,Student,Min Iyer,Economics,3
+S0264,Student,Grace Smith,Psychology,2
+S0265,Student,Karen Liu,Chemistry,3
+S0266,Student,Priya Wang,Physics,2
+S0267,Student,Nikhil Lee,Physics,3
+S0268,Student,Karen Chen,Chemistry,4
+S0269,Student,Grace Kim,Economics,4
+S0270,Student,Casey Johnson,Economics,3
+S0271,Student,Vikram Walker,Physics,1
+S0272,Student,Robert Lee,Engineering,4
+S0273,Student,Paul Gupta,Economics,2
+S0274,Student,Rekha Zhang,Physics,1
+S0275,Student,Elena Kim,Physics,1
+S0276,Student,Mark Martinez,Economics,4
+S0277,Student,Taylor Reddy,Physics,4
+S0278,Student,Elena Park,Chemistry,2
+S0279,Student,Hao Santos,Physics,3
+S0280,Student,Yuki Anderson,Biology,1
+S0281,Student,Sam Santos,Chemistry,2
+S0282,Student,Li Gupta,Computer Science,2
+S0283,Student,Mark Ng,Chemistry,1
+S0284,Student,Casey Brown,Mathematics,4
+S0285,Student,Andrew Zhang,Economics,4
+S0286,Student,Linda Walker,Mathematics,2
+S0287,Student,David Shah,Computer Science,2
+S0288,Student,Yuki Kumar,Engineering,4
+S0289,Student,Joseph Patel,Psychology,2
+S0290,Student,Morgan Liu,Physics,3
+S0291,Student,Chris Reddy,Physics,1
+S0292,Student,Pooja Singh,Mathematics,2
+S0293,Student,Jamie Perez,Computer Science,2
+S0294,Student,Anil Gomez,Engineering,2
+S0295,Student,Michael Wang,Computer Science,4
+S0296,Student,Linda Santos,Psychology,2
+S0297,Student,Rahul Kumar,Physics,1
+S0298,Student,Sam Liu,Computer Science,3
+S0299,Student,Rohan Iyer,Mathematics,3
+S0300,Student,Andrew Kim,Physics,4
+S0301,Student,David Thomas,Psychology,2
+S0302,Student,Karen Lim,Psychology,3
+S0303,Student,Miguel Perez,Chemistry,1
+S0304,Student,Min Clark,Economics,2
+S0305,Student,Pooja Lewis,Psychology,3
+S0306,Student,Andrew Reddy,Biology,1
+S0307,Student,Amit Singh,Economics,3
+S0308,Student,Thomas Tan,Chemistry,2
+S0309,Student,Mark Taylor,Engineering,4
+S0310,Student,Lucia Wilson,Economics,1
+S0311,Student,Emma Park,Engineering,1
+S0312,Student,Nikhil Walker,Biology,2
+S0313,Student,Diane Martinez,Psychology,3
+S0314,Student,Hao Chen,Chemistry,1
+S0315,Student,Sam Hernandez,Physics,4
+S0316,Student,Jamie Singh,Chemistry,4
+S0317,Student,Rajesh Hernandez,Physics,3
+S0318,Student,Karen Wang,Physics,1
+S0319,Student,Rahul Shah,Physics,3
+S0320,Student,Sakura Walker,Chemistry,1
+S0321,Student,Grace Iyer,Mathematics,4
+S0322,Student,Vivek Singh,Physics,2
+S0323,Student,Sakura Moore,Engineering,3
+S0324,Student,Deepa Martinez,Mathematics,3
+S0325,Student,John Perez,Economics,2
+S0326,Student,Diego Martinez,Chemistry,2
+S0327,Student,Luis Singh,Psychology,2
+S0328,Student,Jamie Moore,Psychology,3
+S0329,Student,Kavya Hernandez,Engineering,4
+S0330,Student,Sam Iyer,Chemistry,2
+S0331,Student,Kavya Chen,Mathematics,4
+S0332,Student,Linda Wang,Economics,1
+S0333,Student,Helen Tan,Mathematics,1
+S0334,Student,Shalini Wang,Chemistry,2
+S0335,Student,Rajesh Thomas,Biology,3
+S0336,Student,Alex Taylor,Psychology,1
+S0337,Student,Rohan Lee,Chemistry,4
+S0338,Student,Daniel Thomas,Mathematics,4
+S0339,Student,Joseph Ng,Computer Science,4
+S0340,Student,Casey Santos,Biology,4
+S0341,Student,Anil Rodriguez,Psychology,1
+S0342,Student,John Gupta,Psychology,3
+S0343,Student,William Perez,Computer Science,4
+S0344,Student,Arjun Garcia,Physics,1
+S0345,Student,Joseph Wilson,Chemistry,1
+S0346,Student,Jordan Mehta,Computer Science,4
+S0347,Student,Chris Lopez,Economics,1
+S0348,Student,David Garcia,Computer Science,1
+S0349,Student,Luis Lewis,Psychology,1
+S0350,Student,Helen Taylor,Physics,4
+S0351,Student,Sakura Patel,Biology,2
+S0352,Student,Barbara Zhang,Engineering,3
+S0353,Student,Anil Santos,Engineering,4
+S0354,Student,Jordan Lopez,Engineering,4
+S0355,Student,Sanjay Lee,Mathematics,2
+S0356,Student,Olivia Clark,Economics,1
+S0357,Student,Elena Shah,Biology,4
+S0358,Student,Daniel Liu,Biology,2
+S0359,Student,Jamie Mehta,Computer Science,1
+S0360,Student,Amit Smith,Physics,4
+S0361,Student,Karen Rodriguez,Engineering,4
+S0362,Student,Deepa Shah,Chemistry,2
+S0363,Student,Daniel Ng,Psychology,3
+S0364,Student,Rajesh Mehta,Biology,3
+S0365,Student,Olivia Thomas,Chemistry,1
+S0366,Student,Noah Singh,Computer Science,4
+S0367,Student,Hao Lim,Computer Science,2
+S0368,Student,Emma Wang,Chemistry,1
+S0369,Student,Xiao Kumar,Mathematics,1
+S0370,Student,Barbara Santos,Psychology,1
+S0371,Student,Barbara Patel,Chemistry,1
+S0372,Student,Karen Gupta,Engineering,4
+S0373,Student,Ananya Kim,Chemistry,2
+S0374,Student,Vivek Rodriguez,Computer Science,2
+S0375,Student,Noah Martinez,Physics,2
+S0376,Student,Emma Lopez,Economics,3
+S0377,Student,Casey Martinez,Chemistry,3
+S0378,Student,Min Mehta,Biology,2
+S0379,Student,Morgan Brown,Engineering,3
+S0380,Student,Emily Patel,Physics,1
+S0381,Student,Jing Park,Biology,4
+S0382,Student,John Park,Psychology,1
+S0383,Student,Rohan Garcia,Economics,4
+S0384,Student,Anil Hernandez,Economics,4
+S0385,Student,Hiro Clark,Engineering,2
+S0386,Student,Chris Taylor,Physics,4
+S0387,Student,Rohan Liu,Biology,4
+S0388,Student,Michael Tan,Chemistry,2
+S0389,Student,Anil Lewis,Physics,2
+S0390,Student,Hiro Kim,Psychology,1
+S0391,Student,Nancy Taylor,Engineering,4
+S0392,Student,Michael Taylor,Biology,4
+S0393,Student,Barbara Wilson,Chemistry,3
+S0394,Student,Diego Santos,Chemistry,3
+S0395,Student,Robert Wilson,Mathematics,4
+S0396,Student,Noah Walker,Economics,1
+S0397,Student,Paul Moore,Chemistry,1
+S0398,Student,Sanjay Ng,Physics,4
+S0399,Student,Riley Chen,Computer Science,1
+S0400,Student,Karen Thomas,Chemistry,2
+S0401,Student,Joseph Lee,Psychology,2
+S0402,Student,Luis Park,Economics,3
+S0403,Student,Chen Moore,Computer Science,2
+S0404,Student,Luis Perez,Chemistry,1
+S0405,Student,Priya Gomez,Psychology,2
+S0406,Student,Mark Shah,Chemistry,4
+S0407,Student,Emma Wilson,Chemistry,3
+S0408,Student,Meera Chen,Physics,4
+S0409,Student,Daniel Iyer,Psychology,3
+S0410,Student,Meera Kim,Physics,3
+S0411,Student,Karen Reddy,Economics,4
+S0412,Student,Wei Wilson,Psychology,1
+S0413,Student,Diego Ng,Psychology,3
+S0414,Student,Hao Park,Chemistry,3
+S0415,Student,Xiao Gupta,Economics,4
+S0416,Student,Elena Zhang,Computer Science,2
+S0417,Student,Barbara Johnson,Biology,1
+S0418,Student,Min Chen,Physics,4
+S0419,Student,Michael Chen,Physics,2
+S0420,Student,Ananya Tan,Chemistry,3
+S0421,Student,Sam Lopez,Chemistry,4
+S0422,Student,Chen Wilson,Chemistry,4
+S0423,Student,Susan Wang,Economics,3
+S0424,Student,Ananya Lewis,Psychology,4
+S0425,Student,Pooja Gupta,Psychology,2
+S0426,Student,Luis Kim,Economics,2
+S0427,Student,Li Brown,Biology,4
+S0428,Student,Sanjay Hernandez,Biology,1
+S0429,Student,Rajesh Kim,Computer Science,1
+S0430,Student,Wei Walker,Computer Science,1
+S0431,Student,Kavya Zhang,Engineering,2
+S0432,Student,Sakura Kim,Chemistry,1
+S0433,Student,Joseph Thomas,Biology,1
+S0434,Student,Wei Moore,Chemistry,4
+S0435,Student,Li Ng,Economics,1
+S0436,Student,Deepa Mehta,Psychology,4
+S0437,Student,Chen Johnson,Computer Science,1
+S0438,Student,Deepa Rodriguez,Engineering,1
+S0439,Student,Sakura Lewis,Computer Science,3
+S0440,Student,Sakura Santos,Physics,1
+S0441,Student,Avery Lee,Engineering,2
+S0442,Student,Carlos Lewis,Mathematics,1
+S0443,Student,Pedro Lee,Biology,2
+S0444,Student,Luis Reddy,Chemistry,3
+S0445,Student,Jing Zhang,Economics,3
+S0446,Student,Jordan Kumar,Engineering,1
+S0447,Student,James Thomas,Economics,4
+S0448,Student,Pedro Anderson,Psychology,2
+S0449,Student,Avery Wang,Chemistry,3
+S0450,Student,Nancy Garcia,Mathematics,1
+S0451,Student,Vivek Shah,Mathematics,4
+S0452,Student,Elena Singh,Engineering,4
+S0453,Student,Kavya Lim,Psychology,1
+S0454,Student,Michael Iyer,Computer Science,2
+S0455,Student,Deepa Taylor,Mathematics,4
+S0456,Student,Daniel Hernandez,Engineering,3
+S0457,Student,Vikram Ng,Mathematics,1
+S0458,Student,Olivia Lim,Chemistry,2
+S0459,Student,Rahul Smith,Psychology,3
+S0460,Student,Grace Reddy,Computer Science,1
+S0461,Student,Chen Tan,Physics,1
+S0462,Student,Chen Martinez,Biology,3
+S0463,Student,Jing Brown,Computer Science,2
+S0464,Student,Kavya Lewis,Biology,4
+S0465,Student,Emma Gomez,Mathematics,3
+S0466,Student,Wei Lim,Biology,2
+S0467,Student,Rachel Hernandez,Engineering,3
+S0468,Student,Robert Clark,Engineering,2
+S0469,Student,Susan Smith,Mathematics,3
+S0470,Student,Sakura Taylor,Computer Science,1
+S0471,Student,Hiro Ng,Engineering,2
+S0472,Student,Rohan Lopez,Mathematics,3
+S0473,Student,Joseph Garcia,Engineering,3
+S0474,Student,Alex Wilson,Computer Science,3
+S0475,Student,Sarah Wilson,Psychology,4
+S0476,Student,Jamie Tan,Chemistry,3
+S0477,Student,Meera Lee,Engineering,4
+S0478,Student,Min Anderson,Biology,4
+S0479,Student,Luis Moore,Mathematics,3
+S0480,Student,Sanjay Wang,Chemistry,1
+S0481,Student,Ana Rodriguez,Mathematics,3
+S0482,Student,Paul Perez,Biology,4
+S0483,Student,Sofia Garcia,Biology,4
+S0484,Student,Meera Shah,Economics,3
+S0485,Student,Sakura Brown,Mathematics,1
+S0486,Student,Pedro Kumar,Computer Science,3
+S0487,Student,David Chen,Psychology,3
+S0488,Student,Karen Lee,Physics,1
+S0489,Student,Thomas Clark,Biology,1
+S0490,Student,Sunita Patel,Biology,4
+S0491,Student,Riley Tan,Psychology,4
+S0492,Student,Kavya Wilson,Mathematics,1
+S0493,Student,William Ng,Mathematics,3
+S0494,Student,Rahul Moore,Mathematics,3
+S0495,Student,Emma Iyer,Engineering,1
+S0496,Student,Xiao Ng,Physics,4
+S0497,Student,Taylor Shah,Engineering,1
+S0498,Student,Avery Thomas,Chemistry,2
+S0499,Student,Nikhil Thomas,Engineering,2
+S0500,Student,Sunita Clark,Biology,3
+C101,Class,Class C101,Physics,
+C102,Class,Class C102,Physics,
+C103,Class,Class C103,Psychology,
+C104,Class,Class C104,Biology,
+C105,Class,Class C105,Mathematics,
+C106,Class,Class C106,Biology,
+C107,Class,Class C107,Engineering,
+C108,Class,Class C108,Physics,
+C109,Class,Class C109,Engineering,
+C110,Class,Class C110,Physics,
+C111,Class,Class C111,Psychology,
+C112,Class,Class C112,Mathematics,
+C113,Class,Class C113,Economics,
+C114,Class,Class C114,Physics,
+C115,Class,Class C115,Chemistry,
+C116,Class,Class C116,Psychology,
+C117,Class,Class C117,Chemistry,
+C118,Class,Class C118,Psychology,
+C119,Class,Class C119,Mathematics,
+C120,Class,Class C120,Biology,
+C121,Class,Class C121,Physics,
+C122,Class,Class C122,Computer Science,
+C123,Class,Class C123,Engineering,
+C124,Class,Class C124,Economics,
+C125,Class,Class C125,Engineering,
+C126,Class,Class C126,Economics,
+C127,Class,Class C127,Psychology,
+C128,Class,Class C128,Economics,
+C129,Class,Class C129,Engineering,
+C130,Class,Class C130,Biology,
+C131,Class,Class C131,Physics,
+C132,Class,Class C132,Economics,
+C133,Class,Class C133,Chemistry,
+C134,Class,Class C134,Psychology,
+C135,Class,Class C135,Economics,
+C136,Class,Class C136,Biology,
+C137,Class,Class C137,Engineering,
+C138,Class,Class C138,Economics,
+C139,Class,Class C139,Physics,
+C140,Class,Class C140,Psychology,
+C141,Class,Class C141,Chemistry,
+C142,Class,Class C142,Economics,
+C143,Class,Class C143,Engineering,
+C144,Class,Class C144,Physics,
+C145,Class,Class C145,Engineering,
+C146,Class,Class C146,Economics,
+C147,Class,Class C147,Mathematics,
+C148,Class,Class C148,Chemistry,
+C149,Class,Class C149,Biology,
+C150,Class,Class C150,Computer Science,
+C151,Class,Class C151,Psychology,
+C152,Class,Class C152,Chemistry,
+C153,Class,Class C153,Psychology,
+C154,Class,Class C154,Physics,
+C155,Class,Class C155,Mathematics,
+C156,Class,Class C156,Engineering,
+C157,Class,Class C157,Psychology,
+C158,Class,Class C158,Biology,
+C159,Class,Class C159,Physics,
+C160,Class,Class C160,Chemistry,
+T001,Teacher,Prof. Deepa Park,Mathematics,
+T002,Teacher,Prof. Xiao Garcia,Economics,
+T003,Teacher,Dr. Robert Zhang,Chemistry,
+T004,Teacher,Prof. Amit Liu,Biology,
+T005,Teacher,Prof. Xiao Patel,Economics,
+T006,Teacher,Prof. Amit Zhang,Engineering,
+T007,Teacher,Dr. Anil Park,Chemistry,
+T008,Teacher,Prof. Meera Clark,Economics,
+T009,Teacher,Prof. Robert Garcia,Chemistry,
+T010,Teacher,Prof. Sanjay Tan,Physics,
+T011,Teacher,Prof. Rohan Shah,Engineering,
+T012,Teacher,Dr. David Singh,Psychology,
+T013,Teacher,Dr. Joseph Gupta,Mathematics,
+T014,Teacher,Prof. Taylor Hernandez,Computer Science,
+T015,Teacher,Prof. Paul Patel,Mathematics,
+T016,Teacher,Dr. Robert Martinez,Mathematics,
+T017,Teacher,Prof. Rahul Chen,Economics,
+T018,Teacher,Prof. Hao Kim,Engineering,
+T019,Teacher,Dr. James Tan,Chemistry,
+T020,Teacher,Dr. Joseph Kim,Computer Science,
+T021,Teacher,Dr. Hao Martinez,Economics,
+T022,Teacher,Dr. Miguel Taylor,Computer Science,
+T023,Teacher,Prof. Andrew Lim,Psychology,
+T024,Teacher,Prof. Shalini Hernandez,Physics,
+T025,Teacher,Prof. Deepa Moore,Engineering,
+A0001,Address,"100 Example St, Area Uptown",Housing,
+A0002,Address,"101 Example St, Area North Campus",Housing,
+A0003,Address,"102 Example St, Area North Campus",Housing,
+A0004,Address,"103 Example St, Area Uptown",Housing,
+A0005,Address,"104 Example St, Area East Village",Housing,
+A0006,Address,"105 Example St, Area South Campus",Housing,
+A0007,Address,"106 Example St, Area South Campus",Housing,
+A0008,Address,"107 Example St, Area South Campus",Housing,
+A0009,Address,"108 Example St, Area Uptown",Housing,
+A0010,Address,"109 Example St, Area North Campus",Housing,
+A0011,Address,"110 Example St, Area Uptown",Housing,
+A0012,Address,"111 Example St, Area Uptown",Housing,
+A0013,Address,"112 Example St, Area Downtown",Housing,
+A0014,Address,"113 Example St, Area North Campus",Housing,
+A0015,Address,"114 Example St, Area Downtown",Housing,
+A0016,Address,"115 Example St, Area West Village",Housing,
+A0017,Address,"116 Example St, Area North Campus",Housing,
+A0018,Address,"117 Example St, Area North Campus",Housing,
+A0019,Address,"118 Example St, Area North Campus",Housing,
+A0020,Address,"119 Example St, Area South Campus",Housing,
+A0021,Address,"120 Example St, Area South Campus",Housing,
+A0022,Address,"121 Example St, Area Downtown",Housing,
+A0023,Address,"122 Example St, Area Downtown",Housing,
+A0024,Address,"123 Example St, Area North Campus",Housing,
+A0025,Address,"124 Example St, Area Downtown",Housing,
+A0026,Address,"125 Example St, Area South Campus",Housing,
+A0027,Address,"126 Example St, Area Uptown",Housing,
+A0028,Address,"127 Example St, Area Uptown",Housing,
+A0029,Address,"128 Example St, Area Uptown",Housing,
+A0030,Address,"129 Example St, Area Downtown",Housing,
+A0031,Address,"130 Example St, Area West Village",Housing,
+A0032,Address,"131 Example St, Area South Campus",Housing,
+A0033,Address,"132 Example St, Area West Village",Housing,
+A0034,Address,"133 Example St, Area Downtown",Housing,
+A0035,Address,"134 Example St, Area East Village",Housing,
+A0036,Address,"135 Example St, Area North Campus",Housing,
+A0037,Address,"136 Example St, Area South Campus",Housing,
+A0038,Address,"137 Example St, Area Uptown",Housing,
+A0039,Address,"138 Example St, Area West Village",Housing,
+A0040,Address,"139 Example St, Area East Village",Housing,
+A0041,Address,"140 Example St, Area East Village",Housing,
+A0042,Address,"141 Example St, Area South Campus",Housing,
+A0043,Address,"142 Example St, Area South Campus",Housing,
+A0044,Address,"143 Example St, Area East Village",Housing,
+A0045,Address,"144 Example St, Area North Campus",Housing,
+A0046,Address,"145 Example St, Area North Campus",Housing,
+A0047,Address,"146 Example St, Area West Village",Housing,
+A0048,Address,"147 Example St, Area North Campus",Housing,
+A0049,Address,"148 Example St, Area East Village",Housing,
+A0050,Address,"149 Example St, Area East Village",Housing,
+A0051,Address,"150 Example St, Area Downtown",Housing,
+A0052,Address,"151 Example St, Area East Village",Housing,
+A0053,Address,"152 Example St, Area North Campus",Housing,
+A0054,Address,"153 Example St, Area Uptown",Housing,
+A0055,Address,"154 Example St, Area West Village",Housing,
+A0056,Address,"155 Example St, Area Downtown",Housing,
+A0057,Address,"156 Example St, Area North Campus",Housing,
+A0058,Address,"157 Example St, Area West Village",Housing,
+A0059,Address,"158 Example St, Area North Campus",Housing,
+A0060,Address,"159 Example St, Area Downtown",Housing,
+A0061,Address,"160 Example St, Area East Village",Housing,
+A0062,Address,"161 Example St, Area Uptown",Housing,
+A0063,Address,"162 Example St, Area Downtown",Housing,
+A0064,Address,"163 Example St, Area East Village",Housing,
+A0065,Address,"164 Example St, Area Downtown",Housing,
+A0066,Address,"165 Example St, Area South Campus",Housing,
+A0067,Address,"166 Example St, Area Uptown",Housing,
+A0068,Address,"167 Example St, Area North Campus",Housing,
+A0069,Address,"168 Example St, Area North Campus",Housing,
+A0070,Address,"169 Example St, Area Uptown",Housing,
+A0071,Address,"170 Example St, Area South Campus",Housing,
+A0072,Address,"171 Example St, Area East Village",Housing,
+A0073,Address,"172 Example St, Area North Campus",Housing,
+A0074,Address,"173 Example St, Area South Campus",Housing,
+A0075,Address,"174 Example St, Area North Campus",Housing,
+A0076,Address,"175 Example St, Area West Village",Housing,
+A0077,Address,"176 Example St, Area East Village",Housing,
+A0078,Address,"177 Example St, Area West Village",Housing,
+A0079,Address,"178 Example St, Area Uptown",Housing,
+A0080,Address,"179 Example St, Area East Village",Housing,
+A0081,Address,"180 Example St, Area South Campus",Housing,
+A0082,Address,"181 Example St, Area East Village",Housing,
+A0083,Address,"182 Example St, Area East Village",Housing,
+A0084,Address,"183 Example St, Area South Campus",Housing,
+A0085,Address,"184 Example St, Area Uptown",Housing,
+A0086,Address,"185 Example St, Area East Village",Housing,
+A0087,Address,"186 Example St, Area Uptown",Housing,
+A0088,Address,"187 Example St, Area Uptown",Housing,
+A0089,Address,"188 Example St, Area Uptown",Housing,
+A0090,Address,"189 Example St, Area North Campus",Housing,
+A0091,Address,"190 Example St, Area Downtown",Housing,
+A0092,Address,"191 Example St, Area Uptown",Housing,
+A0093,Address,"192 Example St, Area South Campus",Housing,
+A0094,Address,"193 Example St, Area Downtown",Housing,
+A0095,Address,"194 Example St, Area Uptown",Housing,
+A0096,Address,"195 Example St, Area South Campus",Housing,
+A0097,Address,"196 Example St, Area South Campus",Housing,
+A0098,Address,"197 Example St, Area West Village",Housing,
+A0099,Address,"198 Example St, Area West Village",Housing,
+A0100,Address,"199 Example St, Area East Village",Housing,
+A0101,Address,"200 Example St, Area Uptown",Housing,
+A0102,Address,"201 Example St, Area Uptown",Housing,
+A0103,Address,"202 Example St, Area Downtown",Housing,
+A0104,Address,"203 Example St, Area South Campus",Housing,
+A0105,Address,"204 Example St, Area Uptown",Housing,
+A0106,Address,"205 Example St, Area East Village",Housing,
+A0107,Address,"206 Example St, Area North Campus",Housing,
+A0108,Address,"207 Example St, Area South Campus",Housing,
+A0109,Address,"208 Example St, Area North Campus",Housing,
+A0110,Address,"209 Example St, Area East Village",Housing,
+A0111,Address,"210 Example St, Area West Village",Housing,
+A0112,Address,"211 Example St, Area East Village",Housing,
+A0113,Address,"212 Example St, Area North Campus",Housing,
+A0114,Address,"213 Example St, Area South Campus",Housing,
+A0115,Address,"214 Example St, Area Downtown",Housing,
+A0116,Address,"215 Example St, Area Uptown",Housing,
+A0117,Address,"216 Example St, Area East Village",Housing,
+A0118,Address,"217 Example St, Area South Campus",Housing,
+A0119,Address,"218 Example St, Area Uptown",Housing,
+A0120,Address,"219 Example St, Area West Village",Housing,
+A0121,Address,"220 Example St, Area West Village",Housing,
+A0122,Address,"221 Example St, Area Uptown",Housing,
+A0123,Address,"222 Example St, Area West Village",Housing,
+A0124,Address,"223 Example St, Area South Campus",Housing,
+A0125,Address,"224 Example St, Area East Village",Housing,
+SUSP1,Suspect,Bartender Jill,External,

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>No Path Found</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #222222;
+      color: #ffffff;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    .container {
+      height: 100px; /* required height */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .message {
+      max-width: 900px;
+      width: 100%;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.06);
+      padding: 36px;
+      border-radius: 8px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.6);
+    }
+    .message h1 {
+      margin: 0 0 8px 0;
+      font-size: 28px;
+      letter-spacing: 0.2px;
+    }
+    .message p {
+      margin: 0;
+      color: #d0d0d0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="message" role="status" aria-live="polite">
+      <h1>No path has been found.</h1>
+      <p>There are no simple paths between the selected nodes within the current graph and hop limit.</p>
+    </div>
+  </div>
+</body>
+</html>
